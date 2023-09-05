@@ -1,6 +1,7 @@
 {
   "name": "fcc-learn-npm-package-json",
-    "dependencies": {
+  "author": "Mulugeta Achiso",
+  "dependencies": {
   	"express": "^4.14.0"
   },
   "main": "server.js",
@@ -11,5 +12,4 @@
   	"type": "git",
   	"url": "https://idontknow/todo.git"
   },
-  "author": "Mulugeta Achiso"
 }
